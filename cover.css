@@ -28,6 +28,8 @@ html,
 body {
   height: 100%;
   background-image: url(https://cdn7.dissolve.com/p/D1301_80_239/D1301_80_239_1200.jpg);
+  width:100%;
+	position:fixed;
 }
 
 body {
